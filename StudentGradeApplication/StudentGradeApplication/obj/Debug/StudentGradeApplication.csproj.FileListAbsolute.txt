@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Form1.resources
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Properties.Resources.resources
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+C:\Users\Student\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb
